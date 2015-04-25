@@ -4,7 +4,7 @@ This document explains the flow of code to tidy-up [Human Activity Recognition U
 
 
 This repo has 3 files
-  - run_analysis.R - Run analysis file is a copy of my actual development file in Data_Scient Repository. This file is created for project submission purpose only. Complete history of development can be found in its source repository. Data_Science[4], run_analysis.R[5]
+  - run_analysis.R - Run analysis file is a copy of my actual development file in Data_Scient Repository. This file is created for project submission purpose only. Complete history of development can be found in its source repository. [Data_Science][4], [run_analysis.R][5]
   - README.md - Read Me file consummates the project details.
   - CookBook.md - Cook Book lists the variables and tidied data of HAR repo.
 
