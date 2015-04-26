@@ -1,4 +1,4 @@
-Code Book
+# Code Book
 
 
 ### STEPS and PROCEDURES FOLLOWED TO CRAFT TIDY DATASET
@@ -37,14 +37,19 @@ No of Subjects: 30
 
 No of Activities: 6 (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) 
 
-### OUTPUT DATASET
+### OUTPUT DATASET of MEAN Values
+
+No of Observations: 180
 
 No of Feature Vector: 81 (33 + 33 + 13 + 1 + 1)
-	- Means: 33
-	- Standard Deviation: 33
-	- Frequency Means: 13
-	- Subject: 1
-	- Activity: 1
+
+```sh
+	Means: 33
+	Standard Deviation: 33
+	Frequency Means: 13
+	Subject: 1
+	Activity: 1
+```
 
 **Feature Vectors**
 
